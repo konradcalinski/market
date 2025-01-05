@@ -1,0 +1,39 @@
+#blagamdzialaj
+{
+  margin: 12vw;
+  margin-bottom: 5vw;
+  margin-top: 7vw;
+}
+
+#main
+{
+  display: flex;
+}
+
+h2
+{
+  margin-bottom: 2vw;
+  font-size: 4vw;
+}
+
+#text
+{
+  margin-right: 5vw;
+  font-size: 1vw;
+  width: 40vw;
+}
+
+#zdjecie
+{
+  height: 50vh;
+  width: 100vw;
+  background: #8dc349;
+  background-image: url("abotus.png");
+  background-size: cover;
+}
+
+.cwelemarket{
+  color: #4ce424;
+}
+
+

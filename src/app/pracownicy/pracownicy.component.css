@@ -1,0 +1,118 @@
+*
+{
+  place-content: center;
+}
+
+#cos
+{
+  background-color: #7fb822;
+  padding-top: 3vh;
+}
+
+.michal{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.pracownik{
+  border: 3px solid white;
+  border-radius: 8px;
+  width: 12vw;
+  padding: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-right: 0.75vw;
+  margin-left: 0.75vw;
+  margin-bottom: 5vw;
+  color: white;
+}
+
+#smietnik
+{
+  display: flex;
+}
+
+#ochroniarz{
+  width: 12vw;
+  height: 12vh;
+  background-image: url("ochroniacz.png");
+  background-size: cover;
+  margin-bottom: 1vh;
+}
+
+#magazynier{
+  width: 12vw;
+  height: 12vh;
+  background-image: url("magazynier.png");
+  background-size: cover;
+  margin-bottom: 1vh;
+}
+
+#michalina{
+  width: 12vw;
+  height: 12vh;
+  background-image: url("michalinka.png");
+  background-size: cover;
+  margin-bottom: 1vh;
+}
+
+#nakladka{
+  width: 12vw;
+  height: 12vh;
+  background-image: url("uzupelniacz.png");
+  background-size: cover;
+  margin-bottom: 1vh;
+}
+
+#cwel{
+  width: 40vw;
+  height: 40vh;
+  background-image: url("michalczwartytrzezwy.png");
+  background-size: cover;
+  margin-bottom: 1vh;
+
+}
+
+h2{
+  text-align: center;
+  font-size: 4vw;
+  color: white;
+}
+
+h3
+{
+  font-size: 3vh;
+}
+
+.pracownikmiesiaca{
+  width: 100%;
+  padding: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: white;
+  color: #7fb822;
+  margin: auto;
+  margin-top: 3vh;
+}
+
+#nazwa{
+  margin-bottom: 1.5vh;
+}
+
+.opis2
+{
+  margin-top: 2vh;
+  width: 60vw;
+  font-size: 1vw;
+}
+
+#kosz
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
